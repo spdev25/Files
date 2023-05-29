@@ -1,0 +1,30 @@
+PayPal
+Bank of America
+Microsoft
+Amazon
+Apple
+Netflix
+Google
+Facebook
+IRS (Internal Revenue Service)
+Wells Fargo
+Chase
+eBay
+Citibank
+American Express
+LinkedIn
+Instagram
+Twitter
+Snapchat
+WhatsApp
+iCloud
+Dropbox
+Yahoo
+Gmail
+Hotmail
+Outlook
+Office 365
+Adobe
+Visa
+Mastercard
+UPS (United Parcel Service)
